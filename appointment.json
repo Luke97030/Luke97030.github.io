@@ -1,5 +1,4 @@
 {
- "appointment": [
     {
       "studentName": "qq",
       "phoneNum": "1",
@@ -30,5 +29,4 @@
       "endtTime": "1500",
       "id": 76
     }
-  ]
 }
