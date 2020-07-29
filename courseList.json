@@ -1,0 +1,145 @@
+{
+  "courseList": [
+    {
+      "total": 5,
+      "pagenum": 1,
+      "courses": [
+        {
+          "course_grade": "一年级",
+          "course_level": "初级班",
+          "cat_id": 111,
+          "course_name": "小明老师一年级初级班口语课",
+          "course_price": 20,
+          "course_big_logo": "https://s1.ax1x.com/2020/06/26/NDW26I.jpg",
+          "course_small_logo": "https://s1.ax1x.com/2020/06/26/NDW26I.jpg",
+          "add_time": 1516663280,
+          "upd_time": 1516663280,
+          "hot_mumber": 0,
+          "is_promote": false,
+          "cat_one_id": 1,
+          "cat_two_id": 11,
+          "cat_three_id": 111,
+          "available_date": [
+            "07-12",
+            "07-10",
+            "07-11"
+          ],
+          "available_time": [
+            "12:00-21:00",
+            "12:00-13:00 19:00-19:30 20:00-20:30",
+            "12:00-13:30 15:30-21:30"
+          ]
+        },
+        {
+          "course_grade": "一年级",
+          "course_level": "初级班",
+          "cat_id": 112,
+          "course_name": "小丽老师一年级初级班口语课",
+          "course_price": 20,
+          "course_big_logo": "https://s1.ax1x.com/2020/06/26/NDWg1A.jpg",
+          "course_small_logo": "https://s1.ax1x.com/2020/06/26/NDWg1A.jpg",
+          "add_time": 1516663280,
+          "upd_time": 1516663280,
+          "hot_mumber": 0,
+          "is_promote": false,
+          "cat_one_id": 1,
+          "cat_two_id": 11,
+          "cat_three_id": 112,
+          "available_date": [
+            "07-12",
+            "07-10",
+            "07-11"
+          ],
+          "available_time": [
+            "09:00-21:00",
+            "19:00-19:30",
+            "20:00-22:00"
+          ]
+        },
+        {
+          "course_grade": "二年级",
+          "course_level": "中级班",
+          "cat_id": 221,
+          "course_name": "刘老师二年级中级班口语课",
+          "course_price": 20,
+          "course_big_logo": "https://s1.ax1x.com/2020/06/26/NDWfnP.png",
+          "course_small_logo": "https://s1.ax1x.com/2020/06/26/NDWfnP.png",
+          "add_time": 1516663280,
+          "upd_time": 1516663280,
+          "hot_mumber": 0,
+          "is_promote": false,
+          "cat_one_id": 1,
+          "cat_two_id": 1,
+          "cat_three_id": 5,
+          "available_date": [
+            "07-12",
+            "07-10",
+            "07-11"
+          ],
+          "available_time": [
+            "10:00-21:00",
+            "13:00-13:30",
+            "20:00-20:30"
+          ]
+        },
+        {
+          "course_grade": "六年级",
+          "course_level": "初级班",
+          "cat_id": 611,
+          "course_name": "孔老师六年级初级班口语课",
+          "course_price": 20,
+          "course_big_logo": "https://s1.ax1x.com/2020/06/26/NDWRXt.png",
+          "course_small_logo": "https://s1.ax1x.com/2020/06/26/NDWRXt.png",
+          "add_time": 1516663277,
+          "upd_time": 1516663277,
+          "hot_mumber": 0,
+          "is_promote": false,
+          "cat_one_id": 1,
+          "cat_two_id": 1,
+          "cat_three_id": 5,
+          "available_date": [
+            "07-09",
+            "07-10",
+            "07-11"
+          ],
+          "available_time": [
+            "10:00-16:00",
+            "14:00-14:30",
+            "20:00-20:30"
+          ]
+        },
+        {
+          "course_grade": "四年级",
+          "course_level": "高级班",
+          "cat_id": 431,
+          "course_name": "Justin老师四年级高级班口语课",
+          "course_price": 20,
+          "course_big_logo": "https://s1.ax1x.com/2020/06/26/NDWRXt.png",
+          "course_small_logo": "https://s1.ax1x.com/2020/06/26/NDWRXt.png",
+          "add_time": 1516663277,
+          "upd_time": 1516663277,
+          "hot_mumber": 0,
+          "is_promote": false,
+          "cat_one_id": 1,
+          "cat_two_id": 1,
+          "cat_three_id": 5,
+          "available_date": [
+            "07-09",
+            "07-10",
+            "07-11"
+          ],
+          "available_time": [
+            "10:00-16:00",
+            "21:00-21:30",
+            "20:00-20:30"
+          ]
+        }
+      ]
+    }
+  ],
+  "login": [],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}

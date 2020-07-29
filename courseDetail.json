@@ -1,0 +1,163 @@
+{
+  "courseDetail": [
+    {
+      "course_index": 0,
+      "cat_id": 111,
+      "course_name": "一年级初级班小明老师",
+      "course_price": 20,
+      "course_introduce": "小明老师 顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶",
+      "course_big_logo": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_800x800.jpg",
+      "course_small_logo": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_400x400.jpg",
+      "course_state": 2,
+      "is_del": "0",
+      "add_time": 1516509864,
+      "upd_time": 1516509864,
+      "delete_time": null,
+      "hot_mumber": 0,
+      "is_promote": false,
+      "cat_one_id": 1,
+      "cat_two_id": 11,
+      "cat_three_id": 111,
+      "course_cat": "1,3,5",
+      "pics": [
+        {
+          "pics_id": 11110,
+          "course_id": 1111,
+          "pics_big": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_800x800.jpg",
+          "pics_mid": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_400x400.jpg",
+          "pics_sma": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_200x200.jpg",
+          "pics_big_url": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_800x800.jpg",
+          "pics_mid_url": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_400x400.jpg",
+          "pics_sma_url": "http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_1_200x200.jpg"
+        },
+        {
+          "pics_id": 11111,
+          "course_id": 1111,
+          "pics_big": "http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_2_800x800.jpg",
+          "pics_mid": "http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_2_400x400.jpg",
+          "pics_sma": "http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_2_200x200.jpg",
+          "pics_big_url": "http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_2_800x800.jpg",
+          "pics_mid_url": "http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_2_400x400.jpg",
+          "pics_sma_url": "http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_2_200x200.jpg"
+        },
+        {
+          "pics_id": 11112,
+          "course_id": 1111,
+          "pics_big": "http://image3.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_3_800x800.jpg",
+          "pics_mid": "http://image3.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_3_400x400.jpg",
+          "pics_sma": "http://image3.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_3_200x200.jpg",
+          "pics_big_url": "http://image3.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_3_800x800.jpg",
+          "pics_mid_url": "http://image3.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_3_400x400.jpg",
+          "pics_sma_url": "http://image3.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_3_200x200.jpg"
+        },
+        {
+          "pics_id": 11113,
+          "course_id": 1111,
+          "pics_big": "http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_4_800x800.jpg",
+          "pics_mid": "http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_4_400x400.jpg",
+          "pics_sma": "http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_4_200x200.jpg",
+          "pics_big_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_4_800x800.jpg",
+          "pics_mid_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_4_400x400.jpg",
+          "pics_sma_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_4_200x200.jpg"
+        },
+        {
+          "pics_id": 11114,
+          "course_id": 1111,
+          "pics_big": "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_5_800x800.jpg",
+          "pics_mid": "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_5_400x400.jpg",
+          "pics_sma": "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_5_200x200.jpg",
+          "pics_big_url": "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_5_800x800.jpg",
+          "pics_mid_url": "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_5_400x400.jpg",
+          "pics_sma_url": "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000193373779_5_200x200.jpg"
+        }
+      ]
+    },
+    {
+      "course_index": 1,
+      "cat_id": 112,
+      "course_name": "一年级初级班小丽老师",
+      "course_price": 20,
+      "course_introduce": "小丽老师棒棒哒",
+      "course_big_logo": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_800x800.jpg",
+      "course_small_logo": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_400x400.jpg",
+      "goods_state": 2,
+      "is_del": "0",
+      "add_time": 1516397772,
+      "upd_time": 1516397772,
+      "delete_time": null,
+      "hot_mumber": 0,
+      "is_promote": false,
+      "cat_one_id": 1,
+      "cat_two_id": 11,
+      "cat_three_id": 112,
+      "goods_cat": "1,3,12",
+      "pics": [
+        {
+          "pics_id": 11210,
+          "course_id": 1121,
+          "pics_big": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_800x800.jpg",
+          "pics_mid": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_400x400.jpg",
+          "pics_sma": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_200x200.jpg",
+          "pics_big_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_800x800.jpg",
+          "pics_mid_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_400x400.jpg",
+          "pics_sma_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_200x200.jpg"
+        },
+        {
+          "pics_id": 11211,
+          "goods_id": 1121,
+          "pics_big": "http://image3.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_1_800x800.jpg",
+          "pics_mid": "http://image3.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_1_400x400.jpg",
+          "pics_sma": "http://image3.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_1_200x200.jpg",
+          "pics_big_url": "http://image3.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_1_800x800.jpg",
+          "pics_mid_url": "http://image3.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_1_400x400.jpg",
+          "pics_sma_url": "http://image3.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_1_200x200.jpg"
+        },
+        {
+          "pics_id": 11212,
+          "goods_id": 1121,
+          "pics_big": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_800x800.jpg",
+          "pics_mid": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_400x400.jpg",
+          "pics_sma": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_200x200.jpg",
+          "pics_big_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_800x800.jpg",
+          "pics_mid_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_400x400.jpg",
+          "pics_sma_url": "http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_200x200.jpg"
+        },
+        {
+          "pics_id": 11213,
+          "goods_id": 1121,
+          "pics_big": "http://image1.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_3_800x800.jpg",
+          "pics_mid": "http://image1.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_3_400x400.jpg",
+          "pics_sma": "http://image1.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_3_200x200.jpg",
+          "pics_big_url": "http://image1.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_3_800x800.jpg",
+          "pics_mid_url": "http://image1.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_3_400x400.jpg",
+          "pics_sma_url": "http://image1.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_3_200x200.jpg"
+        },
+        {
+          "pics_id": 11214,
+          "goods_id": 1121,
+          "pics_big": "http://image5.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_4_800x800.jpg",
+          "pics_mid": "http://image5.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_4_400x400.jpg",
+          "pics_sma": "http://image5.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_4_200x200.jpg",
+          "pics_big_url": "http://image5.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_4_800x800.jpg",
+          "pics_mid_url": "http://image5.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_4_400x400.jpg",
+          "pics_sma_url": "http://image5.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_4_200x200.jpg"
+        },
+        {
+          "pics_id": 11215,
+          "goods_id": 1121,
+          "pics_big": "http://image4.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_5_800x800.jpg",
+          "pics_mid": "http://image4.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_5_400x400.jpg",
+          "pics_sma": "http://image4.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_5_200x200.jpg",
+          "pics_big_url": "http://image4.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_5_800x800.jpg",
+          "pics_mid_url": "http://image4.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_5_400x400.jpg",
+          "pics_sma_url": "http://image4.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_5_200x200.jpg"
+        }
+      ]
+    }
+  ],
+  "login": [],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}

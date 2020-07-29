@@ -1,0 +1,233 @@
+{
+  "category": [
+    {
+      "cat_id": 1,
+      "cat_name": "一年级英语",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 11,
+          "cat_name": "初级班",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 111,
+              "cat_name": "小明老师",
+              "cat_pid": 11,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/2fb113b32f7a2b161f5ee4096c319afedc3fd5a1.jpg"
+            },
+            {
+              "cat_id": 112,
+              "cat_name": "小丽老师",
+              "cat_pid": 11,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/5e38cf9e6e7c46a17fe1c597a883ae627977b296.jpg"
+            },
+            {
+              "cat_id": 113,
+              "cat_name": "小张老师",
+              "cat_pid": 11,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/cece39bd7e9654c20043e4af71696e1f838d4a22.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 12,
+          "cat_name": "中级班",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 121,
+              "cat_name": "Sherry老师",
+              "cat_pid": 12,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/994977fac8f4fa6cea5eb413cd64ddac24a97600.jpg"
+            },
+            {
+              "cat_id": 122,
+              "cat_name": "Petty老师",
+              "cat_pid": 12,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/19fc040b41b4c821c16748529545265f5feb34fa.jpg"
+            },
+            {
+              "cat_id": 123,
+              "cat_name": "Luke老师",
+              "cat_pid": 12,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/7f3dfec1efdb2559d7fba1ea39d901f4763fae21.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 13,
+          "cat_name": "高级班",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 131,
+              "cat_name": "张三老师",
+              "cat_pid": 13,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/994977fac8f4fa6cea5eb413cd64ddac24a97600.jpg"
+            },
+            {
+              "cat_id": 132,
+              "cat_name": "李四老师",
+              "cat_pid": 13,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/19fc040b41b4c821c16748529545265f5feb34fa.jpg"
+            },
+            {
+              "cat_id": 133,
+              "cat_name": "王五老师",
+              "cat_pid": 13,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/7f3dfec1efdb2559d7fba1ea39d901f4763fae21.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": 2,
+      "cat_name": "二年级英语",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 21,
+          "cat_name": "初级班",
+          "cat_pid": 2,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 211,
+              "cat_name": "孔老师",
+              "cat_pid": 21,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/d33bc76faf761d86692f6b79dbd5bdb007a6c060.jpg"
+            },
+            {
+              "cat_id": 212,
+              "cat_name": "王老师",
+              "cat_pid": 21,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/4f083927b8062beb2e2a8e5fbcb956e07231e644.jpg"
+            },
+            {
+              "cat_id": 213,
+              "cat_name": "张老师",
+              "cat_pid": 21,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/2333a004401004514d43fc56bf3a08de3d6dee44.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 22,
+          "cat_name": "中级班",
+          "cat_pid": 2,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 221,
+              "cat_name": "刘老师",
+              "cat_pid": 22,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/1fa57f855d15370a93c16c12b856fae164458c5b.jpg"
+            },
+            {
+              "cat_id": 222,
+              "cat_name": "王老师",
+              "cat_pid": 22,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/259207618f9cb1fda1fcb8f4ce16280bde8959de.jpg"
+            },
+            {
+              "cat_id": 223,
+              "cat_name": "贾老师",
+              "cat_pid": 22,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/ac69da199d085a7c59360686310697565ef8083e.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 23,
+          "cat_name": "高级班",
+          "cat_pid": 2,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 231,
+              "cat_name": "孙老师",
+              "cat_pid": 23,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/d2a002e5912a0cf8e74352a9ea38e17e165ccc8d.jpg"
+            },
+            {
+              "cat_id": 232,
+              "cat_name": "苟老师",
+              "cat_pid": 23,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/19fc040b41b4c821c16748529545265f5feb34fa.jpg"
+            },
+            {
+              "cat_id": 233,
+              "cat_name": "马老师",
+              "cat_pid": 23,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/7f3dfec1efdb2559d7fba1ea39d901f4763fae21.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "login": [],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}
